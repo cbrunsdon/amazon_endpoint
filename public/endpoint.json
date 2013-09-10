@@ -3,6 +3,7 @@
   "display": "Amazon",
   "description": "Gets orders from an Amazon seller account to import into a Spree store",
   "help": "http://guides.spreecommerce.com/integration/endpoints/amazon",
+  "icon_url": "amazon.png",
   "consumers": [
     {
       "name": "get_orders",
